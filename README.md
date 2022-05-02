@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AirtonM
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Airton Marinho;
+- 👀 I'm interested in web development;
+- 🌱 I'm currently learning: ReactJS e React Native;
+- 💞️ I'm looking for a job as a junior full-stack developer or WordPress developer;
+- 📫 How to reach me https://marinho.tech/, my website/portfolio.
 
 <!---
 AirtonM/AirtonM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
